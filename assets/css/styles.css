@@ -301,11 +301,14 @@ img {
 
 .home__blob {
   width: 200px;
+  background-image: url("assets/img/Image20230913103804.jpg");
   fill: var(--first-color);
 }
 
 .home__blob-img {
-  width: 170px;
+  background-position: center;
+  width: 200px;
+  background-size: cover;
 }
 
 .home__data {
